@@ -2,11 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wiki.olympusgg.com/changelogs</id>
     <title>Olympus Wiki Blog</title>
-    <updated>2022-10-09T00:00:00.000Z</updated>
+    <updated>2022-10-16T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wiki.olympusgg.com/changelogs"/>
     <subtitle>Olympus Wiki Blog</subtitle>
     <icon>https://wiki.olympusgg.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Changelog - 16/10/2022]]></title>
+        <id>2022-10-16-changelog</id>
+        <link href="https://wiki.olympusgg.com/changelogs/2022-10-16-changelog"/>
+        <updated>2022-10-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[16/10/2022 - 1545 ST)]]></summary>
+        <content type="html"><![CDATA[<blockquote><p>16/10/2022 - 15:45 (13:45 ST) <br>
+Server Version: 2.27.0 <br>
+Client Version: 1.174.0 <br></p></blockquote><h2 class="anchor anchorWithStickyNavbar_LWe7" id="features">Features<a class="hash-link" href="#features" title="Direct link to heading">​</a></h2><ul><li>New Option Window is now available on the server!</li></ul><h2 class="anchor anchorWithStickyNavbar_LWe7" id="fixes">Fixes<a class="hash-link" href="#fixes" title="Direct link to heading">​</a></h2><ul><li>Fixed some partners/pets skill cooldown issues</li><li>Fixed some achievements (daily/weekly) not refreshing properly</li></ul><p><img loading="lazy" src="https://i.imgur.com/kaWOfIg.png" class="img_ev3q"> <br>
+<img loading="lazy" src="https://i.imgur.com/dYTi1Ws.png" class="img_ev3q"> <br>
+<img loading="lazy" src="https://i.imgur.com/qezVsFW.png" class="img_ev3q"> <br></p>]]></content>
+        <author>
+            <name>Protect</name>
+        </author>
+        <category label="changelog" term="changelog"/>
+        <category label="changes" term="changes"/>
+        <category label="fixes" term="fixes"/>
+        <category label="features" term="features"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Changelog - 09/10/2022]]></title>
         <id>2022-10-09-changelog</id>

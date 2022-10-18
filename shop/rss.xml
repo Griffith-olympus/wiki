@@ -4,10 +4,20 @@
         <title>Olympus Wiki Blog</title>
         <link>https://wiki.olympusgg.com/shop</link>
         <description>Olympus Wiki Blog</description>
-        <lastBuildDate>Sun, 09 Oct 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Oct 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Shop rotation - Week 45]]></title>
+            <link>https://wiki.olympusgg.com/shop/2022-10-16-rotations-week-45</link>
+            <guid>2022-10-16-rotations-week-45</guid>
+            <pubDate>Sun, 16 Oct 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Wings]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="wings">Wings<a class="hash-link" href="#wings" title="Direct link to heading">​</a></h2><ul><li><font color="#fd4949">[REMOVE]</font> Lightning Wings Random Box <img src="https://cdn.olympusgg.com/images/4152.png" width="25px"></li><li><font color="orange">[NEW]</font>  Mega Titan Wings Random Box <img src="https://cdn.olympusgg.com/images/2998.png" width="25px"></li></ul><h2 class="anchor anchorWithStickyNavbar_LWe7" id="costumes">Costumes<a class="hash-link" href="#costumes" title="Direct link to heading">​</a></h2><ul><li><font color="#fd4949">[REMOVE]</font> Concierge Costume Random Box <img src="https://cdn.olympusgg.com/images/2896.png" width="25px"></li><li><font color="orange">[NEW]</font> Wizard of Noz Costume Set  Random Box <img src="https://cdn.olympusgg.com/images/4291.png" width="25px"></li></ul><h2 class="anchor anchorWithStickyNavbar_LWe7" id="psps">PSPs<a class="hash-link" href="#psps" title="Direct link to heading">​</a></h2><ul><li><font color="#fd4949">[REMOVE]</font> One-Winged Perti Random Box <img src="https://cdn.olympusgg.com/images/4142.png" width="25px"></li><li><font color="orange">[NEW]</font> Little Princess Venus   Random Box <img src="https://cdn.olympusgg.com/images/2810.png" width="25px"></li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="little-princess-venus"><a href="https://wiki.olympusgg.com/information/psp" target="_blank" rel="noopener noreferrer">Little Princess Venus</a><a class="hash-link" href="#little-princess-venus" title="Direct link to heading">​</a></h3><ul><li>Umbrella Shield:<ul><li>Target: Aroung Friends in 5 cell -&gt; NosMates</li></ul></li><li>[Blunder (S)]<!-- -->:<ul><li>4Lv. -&gt; 5Lv. Debuff</li></ul></li><li>[Sword Trial (S)]<!-- -->:<ul><li>4Lv. -&gt; 5Lv. Debuff</li></ul></li><li>[Little Princess Venus]<!-- -->:<ul><li>[REMOVE]<!-- --> Experience gain is increased by 5/7/9/11/13/15/20%.</li><li>[NEW]<!-- --> All attacks are increased by 50/70/90/110/130/150/200.</li></ul></li></ul>]]></content:encoded>
+            <category>shop</category>
+            <category>rotation</category>
+        </item>
         <item>
             <title><![CDATA[Shop rotation - Week 44]]></title>
             <link>https://wiki.olympusgg.com/shop/2022-10-09-rotations-week-44</link>
