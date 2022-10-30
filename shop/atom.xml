@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wiki.olympusgg.com/shop</id>
     <title>Olympus Wiki Blog</title>
-    <updated>2022-10-23T00:00:00.000Z</updated>
+    <updated>2022-10-30T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wiki.olympusgg.com/shop"/>
     <subtitle>Olympus Wiki Blog</subtitle>
     <icon>https://wiki.olympusgg.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Shop rotation - Week 47]]></title>
+        <id>2022-10-30-rotations-week-47</id>
+        <link href="https://wiki.olympusgg.com/shop/2022-10-30-rotations-week-47"/>
+        <updated>2022-10-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Wings]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="wings">Wings<a class="hash-link" href="#wings" title="Direct link to heading">​</a></h2><ul><li><font color="#fd4949">[REMOVE]</font> Zephyr Wings Random Box <img src="https://cdn.olympusgg.com/images/4074.png" width="25px"></li><li><font color="orange">[NEW]</font> Lunar Wings Random Box <img loading="lazy" src="https://i.imgur.com/Lk87sW1.png" width="20px" class="img_ev3q"><br><br></li></ul><h2 class="anchor anchorWithStickyNavbar_LWe7" id="costumes">Costumes<a class="hash-link" href="#costumes" title="Direct link to heading">​</a></h2><ul><li><font color="#fd4949">[REMOVE]</font> Wizard of Noz Costume Set  Random Box <img src="https://cdn.olympusgg.com/images/4291.png" width="25px"></li><li><font color="orange">[NEW]</font> Wonderland Costume Random Box <img src="https://cdn.olympusgg.com/images/4477.png" width="25px"></li></ul><h2 class="anchor anchorWithStickyNavbar_LWe7" id="psps">PSPs<a class="hash-link" href="#psps" title="Direct link to heading">​</a></h2><ul><li><font color="#fd4949">[REMOVE]</font> Little Princess Venus   Random Box <img src="https://cdn.olympusgg.com/images/2810.png" width="25px"></li><li><font color="orange">[NEW]</font> Daniel Ducats Random Box <img src="https://cdn.olympusgg.com/images/2789.png" width="25px"></li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="daniel-ducats"><a href="https://wiki.olympusgg.com/information/psp" target="_blank" rel="noopener noreferrer">Daniel Ducats</a><a class="hash-link" href="#daniel-ducats" title="Direct link to heading">​</a></h3><ul><li>Ghost Ship:<ul><li>[REMOVE]<!-- --> There is a 80% chance of pushing the enemy away 2 field(s).</li><li>There is a 8% -&gt; 100% chance of causing <!-- -->[Spooked]<!-- -->.</li><li>[NEW]<!-- --> Hit chance is increased to 100% if it's less.</li></ul></li><li>[Vicious Wound (S)]<!-- -->:<ul><li>The chance of receiving a critical hit is increased by 30% -&gt; 10%.</li></ul></li><li>[Spooked]<!-- -->:  // F to S<ul><li>Duration: 6s -&gt; 20s</li><li>HP is decreased by 8/13/18/23/28/33/40% -&gt; 2/4/6/8/10/12/15% of the damage given.</li><li>[NEW]<!-- --> There is a 10/15/15/20/20/25/25% chance that damage received from ranged attacks is increased by 5/5/10/10/15/15/20%.</li></ul></li><li>[Plunder]<!-- --> -&gt; <!-- -->[Anchored]<!-- -->:<ul><li>Buff -&gt; Debuff</li><li>Duration: 30s -&gt; 1/1/2/2/3/3/5s</li><li>[REMOVE]<!-- --> Increases Gold earned by 20%.</li><li>[REMOVE]<!-- --> Reduces cooldown of skills by 15%.</li><li>[NEW]<!-- --> Movement impossible</li><li>[NEW]<!-- --> Morale stat is decreased by 5/8/11/15/19/23/30.</li></ul></li><li>[Anchored (S)]<!-- -->:<ul><li>Level: 3 -&gt; 5</li><li>[NEW]<!-- --> All defence powers are decreased by 200.</li></ul></li></ul>]]></content>
+        <author>
+            <name>Protect</name>
+        </author>
+        <category label="halloween" term="halloween"/>
+        <category label="shop" term="shop"/>
+        <category label="rotation" term="rotation"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Shop rotation - Week 46]]></title>
         <id>2022-10-23-rotations-week-46</id>

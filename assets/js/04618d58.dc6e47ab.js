@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwiki=self.webpackChunkwiki||[]).push([[82430],{54754:a=>{a.exports=JSON.parse('{"label":"gods altar","permalink":"/changelogs/tags/gods-altar","allTagsPath":"/changelogs/tags","count":2}')}}]);
