@@ -4,10 +4,20 @@
         <title>Olympus Wiki Blog</title>
         <link>https://wiki.olympusgg.com/shop</link>
         <description>Olympus Wiki Blog</description>
-        <lastBuildDate>Sun, 30 Oct 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Nov 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Shop rotation - Week 48]]></title>
+            <link>https://wiki.olympusgg.com/shop/2022-11-06-rotations-week-48</link>
+            <guid>2022-11-06-rotations-week-48</guid>
+            <pubDate>Sun, 06 Nov 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Wings]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="wings">Wings<a class="hash-link" href="#wings" title="Direct link to heading">​</a></h2><ul><li><font color="#fd4949">[REMOVE]</font> Lunar Wings Random Box <img src="https://cdn.olympusgg.com/images/4683.png" width="25px"></li><li><font color="orange">[NEW]</font> Golden Wings Random Box <img src="https://cdn.olympusgg.com/images/2730.png" width="25px"></li></ul><h2 class="anchor anchorWithStickyNavbar_LWe7" id="pets">Pets<a class="hash-link" href="#pets" title="Direct link to heading">​</a></h2><ul><li><font color="orange">[NEW]</font> Fluffy Bally Random Box <img src="https://cdn.olympusgg.com/images/2581.png" width="25px"></li><li><font color="#fd4949">[REMOVE]</font> Super Pumpkin Bushi Random Box <img src="https://cdn.olympusgg.com/images/950.png" width="25px"></li></ul><h2 class="anchor anchorWithStickyNavbar_LWe7" id="mounts">Mounts<a class="hash-link" href="#mounts" title="Direct link to heading">​</a></h2><ul><li><font color="orange">[NEW]</font> Magic Donkey Pinata Random Box <img src="https://cdn.olympusgg.com/images/4131.png" width="25px"></li><li><font color="#fd4949">[REMOVE]</font> Horned Sweeper Random Box <img src="https://cdn.olympusgg.com/images/1433.png" width="25px"></li></ul><h2 class="anchor anchorWithStickyNavbar_LWe7" id="costumes">Costumes<a class="hash-link" href="#costumes" title="Direct link to heading">​</a></h2><ul><li><font color="#fd4949">[REMOVE]</font> Pumpkin Knight/Pumpkin Witch Costume Random Box <img src="https://cdn.olympusgg.com/images/4335.png" width="25px"></li></ul><h2 class="anchor anchorWithStickyNavbar_LWe7" id="psps">PSPs<a class="hash-link" href="#psps" title="Direct link to heading">​</a></h2><ul><li><font color="#fd4949">[REMOVE]</font> Test Subject Random Box <img src="https://cdn.olympusgg.com/images/2962.png" width="25px"></li></ul>]]></content:encoded>
+            <category>shop</category>
+            <category>rotation</category>
+        </item>
         <item>
             <title><![CDATA[Shop rotation - Week 47]]></title>
             <link>https://wiki.olympusgg.com/shop/2022-10-30-rotations-week-47</link>
