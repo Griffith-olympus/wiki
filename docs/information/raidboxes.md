@@ -203,4 +203,3 @@ You can view raid box contents ingame with the NPC "Mysterious Monk" in NosVille
 ### Mhytic Celestial Spire Chest
 
 ![](https://i.imgur.com/jXJbFhr.png)
-
